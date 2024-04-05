@@ -3,7 +3,6 @@
 ## Description
 
 - A simple single page webpage describing services offered by Horiseon
-- What problem does it solve?
 
 
 ## Usage
